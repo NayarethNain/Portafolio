@@ -1,0 +1,49 @@
+
+
+.body{
+   
+    font-family: 'Roboto Mono', monospace;
+    
+    background-color: var(--pink);
+}
+.h1{
+    font-size: 35px;
+}
+
+.card-title{
+    font-size: 16px;
+    font-weight: bold;
+    
+} 
+.card-text{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.productos{
+    background-color: var(--white);
+    /* margin: 100; */
+    padding-bottom: 50px;
+}
+
+
+.text{
+    color: #A18262;
+}
+
+
+
+
+
+
+@media (min-width: 700px){
+    body{
+        background-color: var(--pink);
+    }
+   
+}
+     
+    .barra {
+    background-color: #E83E8C;
+}
+
